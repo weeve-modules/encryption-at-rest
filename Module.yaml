@@ -20,7 +20,11 @@ envs:                                   # Array of environment variables that wi
     options: []                        # Options for the field if it is a select or multiple select. An array of string options
     dependencies: []                    # List of dependencies for the field. This field is only displayed if all the dependencies are met. If
 ports: []                                  # Array of ports that will be exposed by the module.
+envPorts: []
 mounts: []
+envMounts: []
+devices: []
+envDevices: []
 tags:                                   # Array of tags.
   - 'Python'
   - 'Processing'
