@@ -3,7 +3,7 @@
 |              |                                                            |
 | ------------ | ---------------------------------------------------------- |
 | name         | Encryption At Rest                                         |
-| version      | v1.0.0                                                     |
+| version      | v1.0.1                                                     |
 | GitHub       | [encryption-at-rest](https://github.com/weeve-modules/encryption-at-rest) |
 | DockerHub    | [weevenetwork/encryption-at-rest](https://hub.docker.com/r/weevenetwork/encryption-at-rest)     |
 | authors      | Paul Gaiduk                                                |
